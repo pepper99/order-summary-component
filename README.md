@@ -1,4 +1,4 @@
-<!-- ![](./screenshot.jpg) -->
+![Screenshot](./screenshot.jpg)
 
 # Frontend Mentor - Order summary card solution
 
@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Frontend Mentor](https://pepper99.github.io/order-summary-component/index.html) -->
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/sass-flexbox-_ALzI6_3n)
 - Live Site URL: [GitHub Pages](https://pepper99.github.io/order-summary-component/index.html)
 
 ## Built with
