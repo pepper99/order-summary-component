@@ -49,13 +49,13 @@ button {
 .wrapper {
     width: 100%;
     height: 100vh;
-    position: relative;
-    z-index: 0;
     display: flex;
     justify-content: center;
     align-items: center;
 
     .card {
+        position: relative;
+        z-index: 1;
         border-radius: 1rem;
         max-width: 400px;
         width: 90%;
@@ -154,7 +154,7 @@ button {
 }
 
 .attribution {
-    z-index: -1;
+    z-index: 0;
     font-size: 10px;
     position: absolute;
     bottom: 0px;
